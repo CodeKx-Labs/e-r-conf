@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "code": "E001",
+    "code": "E0022",
     "name": "Invalid Meter ID",
     "description": "The meter ID is invalid."
   },
