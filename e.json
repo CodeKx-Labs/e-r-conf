@@ -1,0 +1,26 @@
+ [
+    {
+        id: 1,
+        code: "E001",
+        name: "Invalid Meter ID",
+        description: "The meter ID is invalid."
+    },
+    {
+        id: 2,
+        code: "E002",
+        name: "Invalid Meter Type",
+        description: "The meter type is invalid."
+    },
+    {
+        id: 3,
+        code: "E003",
+        name: "Invalid Communication Type",
+        description: "The communication type is invalid."
+    },
+    {
+        id: 4,
+        code: "E004",
+        name: "Invalid Customer ID",
+        description: "The customer ID is invalid."
+    },
+]
